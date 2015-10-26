@@ -51,5 +51,5 @@ To update the website:
 
 ## Making changes
 Adding a new edition is really easy, three simple steps:
-1. `cp generator/content/index.html [Year - previous months].html` e.g If last edition was in July 2015, `cp generator/content/ndex.html generator/content/2015-07.html`. This makes sure that the previous months is available in the flashback section/Previous editions.
-2. Now, Open `generator/content/index.html` and edit it with the up-coming edtions details.
+* `cp generator/content/index.html [Year - previous months].html` e.g If last edition was in July 2015, `cp generator/content/ndex.html generator/content/2015-07.html`. This makes sure that the previous months is available in the flashback section/Previous editions.
+* Now, Open `generator/content/index.html` and edit it with the up-coming edtions details.
