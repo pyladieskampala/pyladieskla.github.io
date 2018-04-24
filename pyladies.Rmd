@@ -1,0 +1,12 @@
+##
+My name is Akello Winnie and i am currently pursuing a Bachelor of Science in Land Economics at Kyambogo University
+i got to know about pyladies as i was randomly going through my twitter timeline feeds, i just landed on it and did not hesitata to follow it because **I LOVE PYTHON**
+I Have achieved a great deal in the sprint;
+*First of all, i was introduced to open source, something i had never really paid attention to, for this , i am really grateful to everyone who made this happpen.
+*i also learnt that through open source, i can actually contribute to real working applications, **HOW COOL IS THAT!**
+*Then i learnt to work with git and github from the commands used in git bash to the various functions on github
+*During the sprint, we were grouped in pairs and my partner was @bamwireku we were called **GREAT HACKERS**.we chose a project called qutebrowser (Use variables in makefiles (#3538) and we did make a pull request of [qutebrowser/qutebrowser]Fixes for $(MANDIR) AND $(DATADIR) in #3538 (#3856); what i learnt was makefiles a required in applications to compile and link the files.In a makefile, variables are used to make it easier, just to meantion but a few.
+* i intend to try out so much with what i learned;
+*First of all, my area of interest has always been GIS technology; i can now contribute to GIS applications through open source, this is sooo **MIND-THRILLING**
+* i intend to learn more and more python and to keep loving python. the sprint has given me a clear picture of what is required of me a future developer and has given more confidence to keep pushing and learning what i ought to know.
+As i conclude, i must say that i am super grateful to the mentors and all my other colleagues. **I FOREVER IN YOUR DEBT**
